@@ -1,4 +1,4 @@
-# Password
+# Password Generator
  A simple password creator.
  There are three types of characters you can use:
  Letters; Numbers; Specials.
